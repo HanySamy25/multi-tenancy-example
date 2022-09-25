@@ -15,7 +15,7 @@ npm install
 
 npm run build
 
-php artisan serve
+php artisan serve 
 
 
 
